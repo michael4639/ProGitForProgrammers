@@ -1,0 +1,1 @@
+vim motd.yml (開始撰寫 playbook 的內容,內容如下)
